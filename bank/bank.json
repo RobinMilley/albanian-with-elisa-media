@@ -1,0 +1,37 @@
+{
+ "note": "Story backgrounds from Robin (21 Oct 2026). Use e01-e04 (Elisa) for frames that show Elisa; never the website's photos. Only label a photo as Albania when the place says Albania.",
+ "elisa": {
+  "e01-desk.jpg": "Elisa from behind at her desk, evening lamp",
+  "e02-terrace.jpg": "Elisa on a café terrace with flowers",
+  "e03-laptop.jpg": "Elisa at a café with laptop and latte, looking at camera",
+  "e04-sunset.jpg": "Elisa at a beach bar at sunset"
+ },
+ "bank": {
+  "b01.jpg": "Gjirokastër, Albania (flag)",
+  "b02.jpg": "Berat, Albania",
+  "b03.jpg": "Budva, Montenegro (NOT Albania)",
+  "b04.jpg": "Garden study setup",
+  "b05.jpg": "Kruja Castle, Albania",
+  "b06.jpg": "Ksamil, Albania",
+  "b07.jpg": "Plane window at sunset",
+  "b08.jpg": "Tirana, Albania",
+  "b09.jpg": "Tirana, Albania (night)",
+  "b10.jpg": "Signpost with Albanian flag",
+  "b11.jpg": "Laptop on the grass",
+  "b12.jpg": "Lake Como, Italy (NOT Albania)",
+  "b13.jpg": "Hill town with flowers (unknown, don't label)",
+  "b14.jpg": "Shkodër, Albania (has someone's location sticker, avoid)",
+  "b15.jpg": "Berat, Albania (evening)",
+  "b16.jpg": "Alps (NOT Albania)",
+  "b17.jpg": "Alps, duplicate of b16",
+  "b18.jpg": "Lake at sunset",
+  "b19.jpg": "Shadow on grass",
+  "b20.jpg": "Cat on the street",
+  "b21.jpg": "Birds on a wire, sunset",
+  "b22.jpg": "Sunset over the sea",
+  "b23.jpg": "Picnic table in a park",
+  "b24.jpg": "Lake Como, Italy (NOT Albania)",
+  "b25.jpg": "Lake Como, Italy (NOT Albania)",
+  "b26.jpg": "Bikes in a park"
+ }
+}
