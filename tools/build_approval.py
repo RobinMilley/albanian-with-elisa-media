@@ -33,7 +33,7 @@ for date, ps in days.items():
             sc = "strip story" if p.get("aspect") == "story" else "strip"
             imgs = f'<div class="{sc}">' + "".join(f'<img src="img/{x}" alt="{E(p["kind"])} image {i+1}" loading="lazy">' for i, x in enumerate(p["images"])) + "</div>"
         if p.get("videos"):
-            imgs += '<div class="vids">' + "".join(f'<video src="img/{v}" controls playsinline preload="metadata"></video>' for v in p["videos"]) + "</div>"
+            imgs += '<div class="vids">' + "".join(f'<video src="img/{v}" controls playsinline preload="metadata"' + (f' poster="img/{v.rsplit(".", 1)[0]}.jpg"' if (OUT / "img" / (v.rsplit(".", 1)[0] + ".jpg")).exists() else "") + '></video>' for v in p["videos"]) + "</div>"
         st = STAT.get(p.get("status", ""))
         stc = f'<span class="st {st[1]}">{st[0]}</span>' if st else ""
         note = f'<p class="note">{E(p["note"])}</p>' if p.get("note") else ""
