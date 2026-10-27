@@ -111,5 +111,17 @@
       "cap": "A trail above the rainforest",
       "alt": "A wooden stairway trail running along a ridge of dense green rainforest toward jagged peaks"
     }
+  ],
+  "netherlands": [
+    {
+      "f": "netherlands-1.jpg",
+      "cap": "An Amsterdam canal",
+      "alt": "An Amsterdam canal at golden hour with moored boats, leafy trees and a bridge full of pink and red flowers"
+    },
+    {
+      "f": "netherlands-2.jpg",
+      "cap": "Tulips and a windmill at Keukenhof",
+      "alt": "Pink tulips in front of a canal and a traditional windmill at Keukenhof in spring"
+    }
   ]
 }
