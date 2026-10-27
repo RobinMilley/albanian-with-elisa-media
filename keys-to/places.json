@@ -135,5 +135,22 @@
       "cap": "Regent Street, London",
       "alt": "A red double-decker bus and a black cab on curved Regent Street under rows of Union Jack flags"
     }
+  ],
+  "canada": [
+    {
+      "f": "canada-1.jpg",
+      "cap": "Winter in the Rockies",
+      "alt": "A Canadian flag flying above a valley of snow-covered pine forest in the Rocky Mountains"
+    },
+    {
+      "f": "canada-2.jpg",
+      "cap": "Vancouver in autumn",
+      "alt": "A path lined with orange autumn trees leading down to Vancouver's harbour and towers, with snowy mountains behind"
+    },
+    {
+      "f": "canada-3.jpg",
+      "cap": "A grizzly on a mountain road",
+      "alt": "A grizzly bear crossing a quiet road through pine forest below the Rocky Mountains"
+    }
   ]
 }
