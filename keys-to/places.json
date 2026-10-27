@@ -152,5 +152,29 @@
       "cap": "A grizzly on a mountain road",
       "alt": "A grizzly bear crossing a quiet road through pine forest below the Rocky Mountains"
     }
+  ],
+  "germany": [
+    {
+      "f": "germany-1.jpg",
+      "cap": "Burg Eltz",
+      "alt": "A cobbled bridge leading to the turrets of Burg Eltz castle in the forested hills of western Germany"
+    },
+    {
+      "f": "germany-2.jpg",
+      "cap": "Monschau in autumn",
+      "alt": "Half-timbered houses and a stone bridge over a small river in the town of Monschau in autumn"
+    }
+  ],
+  "thailand": [
+    {
+      "f": "thailand-1.jpg",
+      "cap": "Elephants in Krabi",
+      "alt": "Elephants standing in a shallow river below a green limestone peak and palm trees in Krabi"
+    },
+    {
+      "f": "thailand-2.jpg",
+      "cap": "Wat Arun, Bangkok",
+      "alt": "The golden spire of Wat Arun temple lit up in Bangkok at dusk"
+    }
   ]
 }
