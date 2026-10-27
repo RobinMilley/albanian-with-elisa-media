@@ -176,5 +176,22 @@
       "cap": "Wat Arun, Bangkok",
       "alt": "The golden spire of Wat Arun temple lit up in Bangkok at dusk"
     }
+  ],
+  "japan": [
+    {
+      "f": "japan-1.jpg",
+      "cap": "Senso-ji, Asakusa, Tokyo",
+      "alt": "The five-storey pagoda of Senso-ji temple in Asakusa under a golden sunset sky"
+    },
+    {
+      "f": "japan-2.jpg",
+      "cap": "Shinjuku at night",
+      "alt": "A wide crosswalk in Shinjuku at night under tall buildings covered in neon signs"
+    },
+    {
+      "f": "japan-3.jpg",
+      "cap": "Cherry blossom season in Kyoto",
+      "alt": "Cherry trees in full pink bloom arching over a quiet canal and stone bridge in an old Kyoto lane"
+    }
   ]
 }
