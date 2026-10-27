@@ -123,5 +123,17 @@
       "cap": "Tulips and a windmill at Keukenhof",
       "alt": "Pink tulips in front of a canal and a traditional windmill at Keukenhof in spring"
     }
+  ],
+  "uk": [
+    {
+      "f": "uk-1.jpg",
+      "cap": "Tower Bridge at night",
+      "alt": "Tower Bridge lit up at dusk, reflected in the River Thames"
+    },
+    {
+      "f": "uk-2.jpg",
+      "cap": "Regent Street, London",
+      "alt": "A red double-decker bus and a black cab on curved Regent Street under rows of Union Jack flags"
+    }
   ]
 }
