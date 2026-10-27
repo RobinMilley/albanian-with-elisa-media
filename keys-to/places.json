@@ -94,5 +94,22 @@
       "cap": "Plaka, below the Acropolis",
       "alt": "A cobbled street in Plaka with bougainvillea and neoclassical houses, the Parthenon on the hill above"
     }
+  ],
+  "panama": [
+    {
+      "f": "panama-1.jpg",
+      "cap": "Panama City from the Cinta Costera",
+      "alt": "The Panama City skyline reflected in the bay on a clear morning, with the Panamanian flag and a seafront road"
+    },
+    {
+      "f": "panama-2.jpg",
+      "cap": "A swimming hole in the hills",
+      "alt": "A small waterfall falling into a clear turquoise pool between rocks and forest, with a swimmer floating"
+    },
+    {
+      "f": "panama-3.jpg",
+      "cap": "A trail above the rainforest",
+      "alt": "A wooden stairway trail running along a ridge of dense green rainforest toward jagged peaks"
+    }
   ]
 }
