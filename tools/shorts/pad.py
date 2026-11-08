@@ -16,7 +16,7 @@ bar = 4.0
 
 def env(length, a, r):
     e = np.ones(length)
-    ai, ri = int(a * SR), int(r * SR)
+    ai, ri = min(int(a * SR), length), min(int(r * SR), length)
     e[:ai] = np.linspace(0, 1, ai) ** 2
     e[-ri:] *= np.linspace(1, 0, ri) ** 1.5
     return e
